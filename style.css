@@ -12,11 +12,11 @@ h1{
 }
 
 body{
-    background:#cccccc;
+    u
 }
 
 em strong{
-    color: #ff0000;
+    color: #FF0000;
 }
 
 #missão{
@@ -26,3 +26,9 @@ em strong{
 .itens{
     font-style: italic;
 }
+
+.benefícios{
+    background: #FFFFFF;
+
+.pricipal{
+   background: #cccccc; 
