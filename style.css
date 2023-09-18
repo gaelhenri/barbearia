@@ -1,6 +1,10 @@
-p{
-    text-align:center;
+p
+    text-align: center;
     background:#CCCCCC;
+}
+
+#banner{
+    width: 100%;
 }
 
 h1{
@@ -9,4 +13,12 @@ h1{
 
 body{
     background:#cccccc;
+}
+
+em strong{
+    color: red;
+}
+
+#missão{
+    font-size: 20xp;
 }
